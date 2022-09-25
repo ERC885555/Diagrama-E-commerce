@@ -1,0 +1,2 @@
+# Diagrama-E-commerce
+Construindo um Esquema Conceitual para Banco de Dados
